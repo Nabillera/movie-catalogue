@@ -1,0 +1,23 @@
+#navbar{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 16px;
+    background-color: #161D2F;
+}
+
+#navbar-category-container{
+    display: flex;
+    column-gap: 20px;
+    align-items: center;
+}
+.navbar-category{
+    height: 16px;
+    width: auto;
+}
+
+#profile-picture{
+    width: 24px;
+    border: 1px solid #ffffff;
+    border-radius: 12px;
+}
